@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\秋之\source\repos\Dian\Dian\main.c(42,4): warning C4013: “CleanStruct”未定义；假设外部返回 int
+C:\Users\秋之\source\repos\Dian\Dian\main.c(88,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Dian.vcxproj -> C:\Users\秋之\source\repos\Dian\x64\Debug\Dian.exe
